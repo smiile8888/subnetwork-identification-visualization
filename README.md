@@ -1,4 +1,4 @@
-### Subnetwork Identification Visualization
+# Subnetwork Identification Visualization
 This is a source code of our publication.
 
 ## Description
